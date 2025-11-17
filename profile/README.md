@@ -37,7 +37,7 @@ Lumos Robotics is a high-tech company specializing in industrial robots. We offe
         <td> Algorithms and utilities for deep reinforcement learning, including PPO implementations</a>. </td>
     </tr>
     <tr>
-        <td align="center" ><a href="https://github.com/LumosRobot/humanoid_demo_retarget"> humanoid_demo_retarget </a></td>
+        <td align="center" ><a href="https://github.com/LumosRobot/refmotion_retarget"> refmotion_retarget </a></td>
         <td>  Tools for motion retargeting from human demonstrations to humanoid robots, including utilities for shape fitting, motion fitting, and visualization. </a>. </td>
     </tr>
         <tr>
