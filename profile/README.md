@@ -4,7 +4,7 @@
   <img src="https://www.lumosbot.tech/Imgs/lumos_logo.png" alt="Lumos Logo" width="300" style="
     border-radius: 8px;
     opacity: 0.70; /* 降低透明度，1.0 是完全不透明，0.85 会显得柔和很多 */
-    transition: opacity 0.3s ease; /* 添加平滑过渡效果 */
+    transition: opacity 0.3s ease; /* 添加平滑过渡效果1111 */
   "/>
 </div>
 
