@@ -81,44 +81,44 @@ Lumos Robotics is a high-tech company specializing in industrial robots. We offe
     <tr>
         <td rowspan="5" class="font-weight-bold">FastUmi</td>
         <td align="center" ><a href="https://github.com/LumosRobot/FastUMI_Hardware_SDK"> FastUMI_Hardware_SDK </a></td>
-        <td> FastUmi Development Kit </td>
+        <td> The FastUMI Pro Hardware SDK is a dedicated embodied AI middleware that provides high-precision pose tracking and multi-modal data synchronization via standardized ROS interfaces, enabling seamless end-to-end data acquisition and policy deployment for imitation learning. </td>
         <td><a href="https://github.com/LumosRobot/FastUMI_Hardware_SDK"><img alt="Stars" src="https://img.shields.io/github/stars/LumosRobot/FastUMI_Hardware_SDK?style=flat-square"/></a></td>
         <td><a href="https://github.com/LumosRobot/FastUMI_Hardware_SDK"><img alt="Forks" src="https://img.shields.io/github/forks/LumosRobot/FastUMI_Hardware_SDK?style=flat-square"/></a></td>
     </tr>
     <tr>
         <td align="center" ><a href="https://github.com/LumosRobot/FastUMI_Data_Platform_Web"> FastUMI_Data_Platform_Web </a></td>
-        <td> Astumi Data Acquisition Software Web Version: Complete data collection and visualization. </td>
+        <td> FastUMI Data Platform Web is a dedicated data management platform for the FastUMI Pro device in the field of embodied AI. It integrates real-time multi-modal data capture, asynchronous playback review, and automated quality assessment functions. By utilizing a standardized web-based interface, it significantly streamlines the processing of complex sensor data from the FastUMI Pro, providing a reliable software infrastructure for large-scale data acquisition in both scientific research and industrial applications. </td>
         <td><a href="https://github.com/LumosRobot/FastUMI_Data_Platform_Web"><img alt="Stars" src="https://img.shields.io/github/stars/LumosRobot/FastUMI_Data_Platform_Web?style=flat-square"/></a></td>
         <td><a href="https://github.com/LumosRobot/FastUMI_Data_Platform_Web"><img alt="Forks" src="https://img.shields.io/github/forks/LumosRobot/FastUMI_Data_Platform_Web?style=flat-square"/></a></td>
     </tr>
     <tr>
         <td align="center" ><a href="https://github.com/LumosRobot/FastUMI_Camera"> FastUMI_Camera </a></td>
-        <td> This repository implements camera usage instructions and intrinsic parameter reading functionality. </td>
+        <td> Provides V4L2-based native video stream acquisition and a supporting camera calibration toolchain (demo-api). </td>
         <td><a href="https://github.com/LumosRobot/FastUMI_Camera"><img alt="Stars" src="https://img.shields.io/github/stars/LumosRobot/FastUMI_Camera?style=flat-square"/></a></td>
         <td><a href="https://github.com/LumosRobot/FastUMI_Camera"><img alt="Forks" src="https://img.shields.io/github/forks/LumosRobot/FastUMI_Camera?style=flat-square"/></a></td>
     </tr>
     <tr>
         <td align="center" ><a href="https://github.com/LumosRobot/FastUMI_Data_Conversion"> FastUMI_Data_Conversion </a></td>
-        <td> FastUmi Data Conversion Module </td>
+        <td> An automated data cleaning and format conversion tool supporting single/dual-arm modes, featuring frequency alignment and parallel compression capabilities. It enables seamless integration from raw captured data to LeRobot/Hugging Face algorithm frameworks, significantly shortening the preparation cycle for model training. </td>
         <td><a href="https://github.com/LumosRobot/FastUMI_Data_Conversion"><img alt="Stars" src="https://img.shields.io/github/stars/LumosRobot/FastUMI_Data_Conversion?style=flat-square"/></a></td>
         <td><a href="https://github.com/LumosRobot/FastUMI_Data_Conversion"><img alt="Forks" src="https://img.shields.io/github/forks/LumosRobot/FastUMI_Data_Conversion?style=flat-square"/></a></td>
     </tr>
     <tr>
         <td align="center" ><a href="https://github.com/LumosRobot/FastUMI_Monitor_Tool"> FastUMI_Monitor_Tool </a></td>
-        <td> FastUMI Pro Visualization Web Tool </td>
+        <td> An interactive monitoring terminal purpose-built for FastUMI Pro, supporting real-time data streaming and frequency monitoring for IMU, SLAM poses, and multi-channel fisheye/RGBD cameras </td>
         <td><a href="https://github.com/LumosRobot/FastUMI_Monitor_Tool"><img alt="Stars" src="https://img.shields.io/github/stars/LumosRobot/FastUMI_Monitor_Tool?style=flat-square"/></a></td>
         <td><a href="https://github.com/LumosRobot/FastUMI_Monitor_Tool"><img alt="Forks" src="https://img.shields.io/github/forks/LumosRobot/FastUMI_Monitor_Tool?style=flat-square"/></a></td>
     </tr>
     <tr>
         <td rowspan="2" class="font-weight-bold">BestMan</td>
         <td align="center" ><a href="https://github.com/LumosRobot/BestMan_Touch"> BestMan_Touch </a></td>
-        <td> Middleware adapted for UFACTORY Touch series robotic arms </td>
+        <td> This is an advanced development kit purpose-built for the FastUMITouch robotic arm series. Based on the high-performance CAN bus communication protocol, the SDK deeply integrates high-precision motion control algorithms with real-time state feedback mechanisms, providing a stable, low-latency hardware abstraction layer for robotic actuation. </td>
         <td><a href="https://github.com/LumosRobot/BestMan_Touch"><img alt="Stars" src="https://img.shields.io/github/stars/LumosRobot/BestMan_Touch?style=flat-square"/></a></td>
         <td><a href="https://github.com/LumosRobot/BestMan_Touch"><img alt="Forks" src="https://img.shields.io/github/forks/LumosRobot/BestMan_Touch?style=flat-square"/></a></td>
     </tr>
     <tr>
         <td align="center" ><a href="https://github.com/LumosRobot/BestMan_Xarm"> BestMan_Xarm </a></td>
-        <td> Middleware adapted for UFACTORY xArm series robotic arms </td>
+        <td> Compatible with the UFACTORY xArm series, this high-level control library is built upon the xArm-Python-SDK, supporting joint-space trajectory planning, end-effector pose control, and robotic gripper operations. </td>
         <td><a href="https://github.com/LumosRobot/BestMan_Xarm"><img alt="Stars" src="https://img.shields.io/github/stars/LumosRobot/BestMan_Xarm?style=flat-square"/></a></td>
         <td><a href="https://github.com/LumosRobot/BestMan_Xarm"><img alt="Forks" src="https://img.shields.io/github/forks/LumosRobot/BestMan_Xarm?style=flat-square"/></a></td>
     </tr>
