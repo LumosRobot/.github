@@ -1,47 +1,22 @@
 <div align="center">
-
-<!-- Logo 卡片（关键优化点） -->
-<div style="
-  display:inline-block;
-  padding:16px 28px;
-  background:#f6f8fa;
-  border-radius:12px;
-  box-shadow:0 2px 8px rgba(0,0,0,0.04);
-  margin-bottom:10px;
-">
-  <img src="https://www.lumosbot.tech/Imgs/lumos_logo.png"
-       alt="Lumos Logo"
-       width="160"
-       style="display:block;"/>
+  <img src="https://www.lumosbot.tech/Imgs/lumos_logo.png" alt="Lumos Logo" width="300"/>
 </div>
-
-<!-- 名称 -->
-<h2 style="margin:6px 0 2px 0;">Lumos Robotics</h2>
-
-<!-- 联系信息 -->
-<p style="margin:2px 0; font-size:14px; color:#57606a;">
-  👥 6 followers &nbsp;|&nbsp;
-  📧 <a href="mailto:thomas@lumosbot.tech">thomas@lumosbot.tech</a>
-</p>
-
-<!-- 社交 -->
-<p style="margin-top:6px;">
-  <a href="https://www.youtube.com/@Lumos_Robotics"><img src="https://img.shields.io/badge/YouTube-ff4d4f?style=flat&logo=youtube&logoColor=white" height="22"/></a>
-  <a href="https://x.com/LumosRobotics"><img src="https://img.shields.io/badge/X-1f6feb?style=flat&logo=X&logoColor=white" height="22"/></a>
-  <a href="https://space.bilibili.com/3546820737239245"><img src="https://img.shields.io/badge/Bilibili-ff85c0?style=flat&logo=bilibili&logoColor=white" height="22"/></a>
-  <a href="https://weibo.com/u/8006652968"><img src="https://img.shields.io/badge/Weibo-ffd666?style=flat&logo=sina-weibo&logoColor=red" height="22"/></a>
-  <a href="https://xhslink.com/m/8ukCEHTUIYv"><img src="https://img.shields.io/badge/Xiaohongshu-ff7875?style=flat" height="22"/></a>
-  <a href="https://www.tiktok.com/@lumosrobotics"><img src="https://img.shields.io/badge/TikTok-2f2f2f?style=flat&logo=tiktok&logoColor=white" height="22"/></a>
-  <a href="mailto:bd@lumosbot.tech"><img src="https://img.shields.io/badge/Email-d4380d?style=flat&logo=gmail&logoColor=white" height="22"/></a>
-</p>
-
-</div>
-
----
 
 # Lumos Robotics
 
-**Lumos Robotics** is a high-tech company specializing in industrial robots. We offer the **LUS** and **MOS** series of robots, **FastUmi** Embodied Dataset Collection System, along with essential parts such as robotic joint modules and grippers that can sense touch.
+**Lumos Robotics** specializes in industrial robots, including **LUS** and **MOS** series, plus robotic joint modules and touch-sensitive grippers.
+
+---
+
+### 📱 Connect with Us
+
+[![YouTube](https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Lumos_Robotics)
+[![X](https://img.shields.io/badge/X-1ca0f1?style=flat&logo=X&logoColor=white)](https://x.com/LumosRobotics)
+[![Bilibili](https://img.shields.io/badge/Bilibili-ff69b4?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546820737239245)
+[![Weibo](https://img.shields.io/badge/Weibo-FFCC00?style=flat&logo=sina-weibo&logoColor=red)](https://weibo.com/u/8006652968)
+[![Xiaohongshu](https://img.shields.io/badge/Xiaohongshu-ff0000?style=flat&logo=zhihu&logoColor=white)](https://xhslink.com/m/8ukCEHTUIYv)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@lumosrobotics)
+[![Email](https://img.shields.io/badge/Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:bd@lumosbot.tech)
 
 ---
 
