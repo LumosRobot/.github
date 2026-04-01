@@ -1,4 +1,4 @@
-## Welcome to the Lumos Robotics ! 👋
+### Welcome to the Lumos Robotics ! 👋
 
 <div align="left" style="margin-bottom: 20px;">
   <img src="https://www.lumosbot.tech/Imgs/lumos_logo.png" alt="Lumos Logo" width="300" style="
@@ -21,6 +21,16 @@
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@lumosrobotics)
 [![Email](https://img.shields.io/badge/Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:bd@lumosbot.tech)
 
+## 📚 Useful resources
+
+<ul>
+<li><a href="https://www.lumosbot.tech/"> Lumos Robotics Homepage</a></li>
+<li><a href="https://github.com/LumosRobot/lumos_sdk"> FastUmiData</a></li>
+<li><a href="https://github.com/LumosRobot"> Open Source Projects</a></li>
+<li><a href="https://lumosrobot.github.io/lumosrobotics.github.io/"> Documentation</a></li>
+</ul>
+
+</div>
 
 ## 🛠 Open Source Projects
 
