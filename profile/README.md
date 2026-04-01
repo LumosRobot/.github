@@ -11,7 +11,7 @@
 **Lumos Robotics** is a high-tech company specializing in industrial robots. We offer the **LUS** and **MOS** series of robots, **FastUmi** Embodied Dataset Collection System, along with essential parts such as robotic joint modules and grippers that can sense touch.
 
 
-## 📱 Connect with Us
+### 📱 Connect with Us
 
 [![YouTube](https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Lumos_Robotics)
 [![X](https://img.shields.io/badge/X-1ca0f1?style=flat&logo=X&logoColor=white)](https://x.com/LumosRobotics)
@@ -21,7 +21,9 @@
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@lumosrobotics)
 [![Email](https://img.shields.io/badge/Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:bd@lumosbot.tech)
 
-## 📚 Useful resources
+---
+
+### 📚 Useful resources
 
 <ul>
 <li><a href="https://www.lumosbot.tech/"> Lumos Robotics Homepage</a></li>
@@ -32,7 +34,9 @@
 
 </div>
 
-## 🕊️  Open Source Projects
+---
+
+### 🕊️  Open Source Projects
 
 <details>
 <summary><strong> Lumos Projects</strong></summary>
@@ -93,8 +97,6 @@ Middleware for UFACTORY xArm series
 ![Stars](https://img.shields.io/github/stars/LumosRobot/BestMan_Xarm?style=flat-square) ![Forks](https://img.shields.io/github/forks/LumosRobot/BestMan_Xarm?style=flat-square)
 
 </details>
-
----
 
 <div align="center">
 Made with ❤️ by Lumos Robotics
