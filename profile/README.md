@@ -21,7 +21,7 @@
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@lumosrobotics)
 [![Email](https://img.shields.io/badge/Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:bd@lumosbot.tech)
 
-## 📚 Useful resources
+### 📚 Useful resources
 
 <ul>
 <li><a href="https://www.lumosbot.tech/"> Lumos Robotics Homepage</a></li>
@@ -32,10 +32,10 @@
 
 </div>
 
-## 🛠 Open Source Projects
+### 🕊️  Open Source Projects
 
 <details>
-<summary><strong>💡 Lumos Projects</strong></summary>
+<summary><strong> Lumos Projects</strong></summary>
 
 ### [lumos_assets](https://github.com/LumosRobot/lumos_assets)
 3D models, meshes, URDF/Xacro assets for LUS/NIX robots  
@@ -60,7 +60,7 @@ RL environments for humanoid robots ([docs](https://lumosrobot.github.io/lumosro
 </details>
 
 <details>
-<summary><strong>⚡ FastUmi Projects</strong></summary>
+<summary><strong> FastUmi Projects</strong></summary>
 
 ### [FastUMI_Hardware_SDK](https://github.com/LumosRobot/FastUMI_Hardware_SDK)
 High-precision SDK for FastUMI Pro  
@@ -80,7 +80,7 @@ Camera API & calibration
 </details>
 
 <details>
-<summary><strong>🤖 BestMan Projects</strong></summary>
+<summary><strong> BestMan Projects</strong></summary>
 
 ### [BestMan_Touch](https://github.com/LumosRobot/BestMan_Touch)
 Middleware for UFACTORY Touch series  
