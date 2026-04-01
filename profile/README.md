@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 缩小 logo -->
-<img src="https://www.lumosbot.tech/Imgs/lumos_logo_white.png" alt="Lumos Logo" width="180" style="border-radius:8px; margin-bottom:8px;"/>
+<img src="https://www.lumosbot.tech/Imgs/lumos_logo.png" alt="Lumos Logo" width="180" style="border-radius:8px; margin-bottom:8px;"/>
 
 <!-- 名称 + 联系信息紧凑一行 -->
 <h2 style="margin:4px 0;">Lumos Robotics</h2>
