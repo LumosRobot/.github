@@ -97,7 +97,3 @@ Middleware for UFACTORY xArm series
 ![Stars](https://img.shields.io/github/stars/LumosRobot/BestMan_Xarm?style=flat-square) ![Forks](https://img.shields.io/github/forks/LumosRobot/BestMan_Xarm?style=flat-square)
 
 </details>
-
-<div align="center">
-Made with ❤️ by Lumos Robotics
-</div>
