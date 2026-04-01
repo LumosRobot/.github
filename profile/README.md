@@ -1,5 +1,4 @@
-# Welcome to the Lumos Robotics ! 👋
----
+## Welcome to the Lumos Robotics ! 👋
 
 <div align="center" style="margin-bottom: 20px;">
   <img src="https://www.lumosbot.tech/Imgs/lumos_logo.png" alt="Lumos Logo" width="180" style="
@@ -12,7 +11,6 @@
 # Lumos Robotics
 **Lumos Robotics** is a high-tech company specializing in industrial robots. We offer the **LUS** and **MOS** series of robots, **FastUmi** Embodied Dataset Collection System, along with essential parts such as robotic joint modules and grippers that can sense touch.
 
----
 
 ### 📱 Connect with Us
 
@@ -24,7 +22,6 @@
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@lumosrobotics)
 [![Email](https://img.shields.io/badge/Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:bd@lumosbot.tech)
 
----
 
 ## 🛠 Open Source Projects
 
