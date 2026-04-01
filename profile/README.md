@@ -1,22 +1,32 @@
 <div align="center">
-  <img src="https://www.lumosbot.tech/Imgs/lumos_logo.png" alt="Lumos Logo" width="300"/>
+
+<!-- 缩小 logo -->
+<img src="https://www.lumosbot.tech/Imgs/lumos_logo.png" alt="Lumos Logo" width="180" style="border-radius:8px; margin-bottom:8px;"/>
+
+<!-- 名称 + 联系信息紧凑一行 -->
+<h2 style="margin:4px 0;">Lumos Robotics</h2>
+<p style="margin:2px 0; font-size:14px;">
+  👥 6 followers &nbsp;|&nbsp; 📧 <a href="mailto:thomas@lumosbot.tech">thomas@lumosbot.tech</a>
+</p>
+
+<!-- 社交图标一行排列 -->
+<p>
+  <a href="https://www.youtube.com/@Lumos_Robotics"><img src="https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=youtube&logoColor=white" height="24"/></a>
+  <a href="https://x.com/LumosRobotics"><img src="https://img.shields.io/badge/X-1ca0f1?style=flat&logo=X&logoColor=white" height="24"/></a>
+  <a href="https://space.bilibili.com/3546820737239245"><img src="https://img.shields.io/badge/Bilibili-ff69b4?style=flat&logo=bilibili&logoColor=white" height="24"/></a>
+  <a href="https://weibo.com/u/8006652968"><img src="https://img.shields.io/badge/Weibo-FFCC00?style=flat&logo=sina-weibo&logoColor=red" height="24"/></a>
+  <a href="https://xhslink.com/m/8ukCEHTUIYv"><img src="https://img.shields.io/badge/Xiaohongshu-ff0000?style=flat&logo=zhihu&logoColor=white" height="24"/></a>
+  <a href="https://www.tiktok.com/@lumosrobotics"><img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white" height="24"/></a>
+  <a href="mailto:bd@lumosbot.tech"><img src="https://img.shields.io/badge/Email-c14438?style=flat&logo=gmail&logoColor=white" height="24"/></a>
+</p>
+
 </div>
+
+---
 
 # Lumos Robotics
 
 **Lumos Robotics** specializes in industrial robots, including **LUS** and **MOS** series, plus robotic joint modules and touch-sensitive grippers.
-
----
-
-### 📱 Connect with Us
-
-[![YouTube](https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Lumos_Robotics)
-[![X](https://img.shields.io/badge/X-1ca0f1?style=flat&logo=X&logoColor=white)](https://x.com/LumosRobotics)
-[![Bilibili](https://img.shields.io/badge/Bilibili-ff69b4?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546820737239245)
-[![Weibo](https://img.shields.io/badge/Weibo-FFCC00?style=flat&logo=sina-weibo&logoColor=red)](https://weibo.com/u/8006652968)
-[![Xiaohongshu](https://img.shields.io/badge/Xiaohongshu-ff0000?style=flat&logo=zhihu&logoColor=white)](https://xhslink.com/m/8ukCEHTUIYv)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@lumosrobotics)
-[![Email](https://img.shields.io/badge/Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:bd@lumosbot.tech)
 
 ---
 
