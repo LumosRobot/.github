@@ -30,7 +30,7 @@
 <li><a href="https://www.lumosbot.tech/"> Lumos Robotics Homepage</a></li>
 <li><a href="https://fastumi.com/"> Fast Umi Data</a></li>
 <li><a href="https://github.com/LumosRobot"> Open Source Projects</a></li>
-<li><a href="https://lumosrobot.github.io/lumosbot-documentation/"> Documentation</a></li>
+<li><a href="https://lumosrobot.github.io/lumosrobotics.github.io/"> Documentation</a></li>
 </ul>
 
 </div>
