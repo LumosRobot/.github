@@ -22,56 +22,65 @@
 
 ## 🛠 Open Source Projects
 
-### **Lumos Projects**
-<div align="left">
+<details>
+<summary><strong>💡 Lumos Projects</strong></summary>
 
-#### [lumos_assets](https://github.com/LumosRobot/lumos_assets)
+### [lumos_assets](https://github.com/LumosRobot/lumos_assets)
 3D models, meshes, URDF/Xacro assets for LUS/NIX robots  
+**Tags:** `3D Models` `Simulation` `URDF`  
 ![Stars](https://img.shields.io/github/stars/LumosRobot/lumos_assets?style=flat-square) ![Forks](https://img.shields.io/github/forks/LumosRobot/lumos_assets?style=flat-square)
 
-#### [lumos_sdk](https://github.com/LumosRobot/lumos_sdk)
+### [lumos_sdk](https://github.com/LumosRobot/lumos_sdk)
 SDK for robot control, communication & example controllers  
+**Tags:** `SDK` `Robot Control`  
 ![Stars](https://img.shields.io/github/stars/LumosRobot/lumos_sdk?style=flat-square) ![Forks](https://img.shields.io/github/forks/LumosRobot/lumos_sdk?style=flat-square)
 
-#### [refmotion_retarget](https://github.com/LumosRobot/refmotion_retarget)
+### [refmotion_retarget](https://github.com/LumosRobot/refmotion_retarget)
 Human-to-robot motion retargeting tools  
+**Tags:** `Motion` `Retargeting`  
 ![Stars](https://img.shields.io/github/stars/LumosRobot/refmotion_retarget?style=flat-square) ![Forks](https://img.shields.io/github/forks/LumosRobot/refmotion_retarget?style=flat-square)
 
-#### [st_gym](https://github.com/LumosRobot/st_gym)
+### [st_gym](https://github.com/LumosRobot/st_gym)
 RL environments for humanoid robots ([docs](https://lumosrobot.github.io/lumosrobotics.github.io/))  
+**Tags:** `Reinforcement Learning` `Humanoid`  
 ![Stars](https://img.shields.io/github/stars/LumosRobot/st_gym?style=flat-square) ![Forks](https://img.shields.io/github/forks/LumosRobot/st_gym?style=flat-square)
 
-</div>
+</details>
 
-### **FastUmi Projects**
-<div align="left">
+<details>
+<summary><strong>⚡ FastUmi Projects</strong></summary>
 
-#### [FastUMI_Hardware_SDK](https://github.com/LumosRobot/FastUMI_Hardware_SDK)
+### [FastUMI_Hardware_SDK](https://github.com/LumosRobot/FastUMI_Hardware_SDK)
 High-precision SDK for FastUMI Pro  
+**Tags:** `SDK` `Hardware` `Motion Tracking`  
 ![Stars](https://img.shields.io/github/stars/LumosRobot/FastUMI_Hardware_SDK?style=flat-square) ![Forks](https://img.shields.io/github/forks/LumosRobot/FastUMI_Hardware_SDK?style=flat-square)
 
-#### [FastUMI_Data_Platform_Web](https://github.com/LumosRobot/FastUMI_Data_Platform_Web)
+### [FastUMI_Data_Platform_Web](https://github.com/LumosRobot/FastUMI_Data_Platform_Web)
 Data acquisition & visualization web platform  
+**Tags:** `Web` `Data Visualization`  
 ![Stars](https://img.shields.io/github/stars/LumosRobot/FastUMI_Data_Platform_Web?style=flat-square) ![Forks](https://img.shields.io/github/forks/LumosRobot/FastUMI_Data_Platform_Web?style=flat-square)
 
-#### [FastUMI_Camera](https://github.com/LumosRobot/FastUMI_Camera)
+### [FastUMI_Camera](https://github.com/LumosRobot/FastUMI_Camera)
 Camera API & calibration  
+**Tags:** `Camera` `Calibration`  
 ![Stars](https://img.shields.io/github/stars/LumosRobot/FastUMI_Camera?style=flat-square) ![Forks](https://img.shields.io/github/forks/LumosRobot/FastUMI_Camera?style=flat-square)
 
-</div>
+</details>
 
-### **BestMan Projects**
-<div align="left">
+<details>
+<summary><strong>🤖 BestMan Projects</strong></summary>
 
-#### [BestMan_Touch](https://github.com/LumosRobot/BestMan_Touch)
+### [BestMan_Touch](https://github.com/LumosRobot/BestMan_Touch)
 Middleware for UFACTORY Touch series  
+**Tags:** `Middleware` `Robotic Arm`  
 ![Stars](https://img.shields.io/github/stars/LumosRobot/BestMan_Touch?style=flat-square) ![Forks](https://img.shields.io/github/forks/LumosRobot/BestMan_Touch?style=flat-square)
 
-#### [BestMan_Xarm](https://github.com/LumosRobot/BestMan_Xarm)
+### [BestMan_Xarm](https://github.com/LumosRobot/BestMan_Xarm)
 Middleware for UFACTORY xArm series  
+**Tags:** `Middleware` `Robotic Arm`  
 ![Stars](https://img.shields.io/github/stars/LumosRobot/BestMan_Xarm?style=flat-square) ![Forks](https://img.shields.io/github/forks/LumosRobot/BestMan_Xarm?style=flat-square)
 
-</div>
+</details>
 
 ---
 
