@@ -1,10 +1,14 @@
-<div align="center">
-  <img src="https://www.lumosbot.tech/Imgs/lumos_logo.png" alt="Lumos Logo" width="300"/>
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://www.lumosbot.tech/Imgs/lumos_logo.png" alt="Lumos Logo" width="180" style="
+    border-radius: 8px;
+    opacity: 0.70; /* 降低透明度，1.0 是完全不透明，0.85 会显得柔和很多 */
+    transition: opacity 0.3s ease; /* 添加平滑过渡效果 */
+  "/>
 </div>
 
 # Lumos Robotics
 
-**Lumos Robotics** specializes in industrial robots, including **LUS** and **MOS** series, plus robotic joint modules and touch-sensitive grippers.
+**Lumos Robotics** is a high-tech company specializing in industrial robots. We offer the **LUS** and **MOS** series of robots, **FastUmi** Embodied Dataset Collection System, along with essential parts such as robotic joint modules and grippers that can sense touch.
 
 ---
 
